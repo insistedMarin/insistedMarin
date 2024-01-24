@@ -25,6 +25,10 @@ I'm a passionate software developer specializing in web development and cloud te
 
   An online library sounds very cool, but what is more interesting is that this project will let us learn more, how to quickly search documents? ElasticSearch is undoubtedly the first choice. The flashback indexing mechanism allows us to quickly find relevant documents through keywords. The only problem is, it's too heavy (local deployment puts my laptop through the paces). Fortunately, we can experience **Elastic Cloud** for 7 days to explore Elastic Search and **Kibana**. As well as **logstash** and **various connectors** to ensure data synchronization.
 
+- [Spark ETL](https://github.com/insistedMarin/Spark-Scala-String-Scalarization)
+
+  **Spark** is a very important framework for data engineering and is divided into two versions: **python** and **scala**. The new version of Spark already supports the use of **dataframes**, so it is not difficult for people who are familiar with Pandas to get started. This project gave me more experience in various deployment methods. To deploy in an AWS environment we can use **EKS** and **EMR**, as well as **Glue** if you want to develop directly with pySpark. It should be noted that EMR cannot configure virtual machines, but directly submits project packages, so the project cannot contain operations that interact with the operating system.
+
 ## Open Source Contributions
 
 - [incubator-answer](https://github.com/insistedMarin/incubator-answer) 
