@@ -19,7 +19,7 @@ I'm a passionate software developer specializing in web development and cloud te
   
 - [Trading System](https://github.com/insistedMarin/Transaction-Spring)
 
-  A real-time trading system that taught me a lot. Spring Cloud is used to implement the microservice architecture, kafka message queue implements decoupling between services, redis implements transaction snapshots, API gateway implementation, websocket implements server message push, and we can write our own ORM framework.
+  A real-time trading system that taught me a lot. **Spring Cloud** is used to implement the microservice architecture,**kafka** message queue implements decoupling between services, **redis** implements transaction snapshots, API gateway implementation, websocket implements server message push, and we can write our own ORM framework.
 
 
 ## Contact Me
