@@ -25,6 +25,12 @@ I'm a passionate software developer specializing in web development and cloud te
 
   An online library sounds very cool, but what is more interesting is that this project will let us learn more, how to quickly search documents? ElasticSearch is undoubtedly the first choice. The flashback indexing mechanism allows us to quickly find relevant documents through keywords. The only problem is, it's too heavy (local deployment puts my laptop through the paces). Fortunately, we can experience **Elastic Cloud** for 7 days to explore Elastic Search and **Kibana**. As well as **logstash** and **various connectors** to ensure data synchronization.
 
+## Open Source Contributions
+
+- [incubator-answer](https://github.com/insistedMarin/incubator-answer) -
+
+  A very popular Apache incubator open source project, a few months ago I started trying to contribute to the open source project. I am very happy to choose this project as the first open source project I contributed to. The project's workflow is very **standardized** and the community members are **friendly**, which allowed me to learn a lot about **code specifications** and **architectural design**. This project is a typical web project with separate front and back ends, developed using **React** and **Golang**. Golang, as the current main language for cloud native development, has given me a good experience. If you are already proficient in Java, C, and Python, learning Golang will be very fast. And the backend adopts the **MVC** architecture (the framework Gin itself is a lightweight framework, so there is no MVC architecture, but the project manually implemented the architecture. There are many such examples. The MVC architecture does a great job in service decoupling and code clarity. Still very good), so it’s not difficult to get started.
+
 
 ## Contact Me
 
