@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**insistedMarin/insistedMarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer specializing in web development and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**: JavaScript, Python, Java, Go
+- **Frameworks**:Spring Boot, Angular, React, Django
+- **Tools**: Docker, Kubernetes, AWS
+
+## My Work
+
+- [AI Image search engine](https://github.com/insistedMarin/Image-Search-System-Using-CLIP-Model)
+- [Trading System](https://github.com/insistedMarin/Transaction-Spring)
+
+
+## Contact Me
+
+- Email: [xyyr190304@gmail.com](mailto:xyyr190304@gmail.com)
+
+
