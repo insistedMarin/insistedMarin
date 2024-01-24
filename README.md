@@ -6,7 +6,7 @@ I'm a passionate software developer specializing in web development and cloud te
 
 ## Skills
 
-- **Programming Languages**: JavaScript, Python, Java, Go
+- **Programming Languages**: Java, JavaScript, Python, Go
 - **Frameworks**:Spring Boot, Angular, React, Django
 - **Tools**: Docker, Kubernetes, AWS
 
