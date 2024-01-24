@@ -13,6 +13,8 @@ I'm a passionate software developer specializing in web development and cloud te
 ## My Work
 
 - [AI Image search engine](https://github.com/insistedMarin/Image-Search-System-Using-CLIP-Model)
+  Construct Open AI's **CLIP** model into a mirror image, and use it to construct an image search engine, using a cloud-native development method. My model image is public and everyone is welcome to use it.
+  This system mainly demonstrates the basic architecture of an AI-based image search engine. If it is a production environment, please use a vector search engine for optimization, such as **Elastic Search**, **Faiss**.
 - [Trading System](https://github.com/insistedMarin/Transaction-Spring)
 
 
