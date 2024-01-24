@@ -23,7 +23,7 @@ I'm a passionate software developer specializing in web development and cloud te
 
 - [Online Reading](https://github.com/insistedMarin/online-reading)
 
-An online library sounds very cool, but what is more interesting is that this project will let us learn more, how to quickly search documents? ElasticSearch is undoubtedly the first choice. The flashback indexing mechanism allows us to quickly find relevant documents through keywords. The only problem is, it's too heavy (local deployment puts my laptop through the paces). Fortunately, we can experience **Elastic Cloud** for 7 days to explore Elastic Search and **Kibana**. As well as **logstash** and **various connectors** to ensure data synchronization.
+  An online library sounds very cool, but what is more interesting is that this project will let us learn more, how to quickly search documents? ElasticSearch is undoubtedly the first choice. The flashback indexing mechanism allows us to quickly find relevant documents through keywords. The only problem is, it's too heavy (local deployment puts my laptop through the paces). Fortunately, we can experience **Elastic Cloud** for 7 days to explore Elastic Search and **Kibana**. As well as **logstash** and **various connectors** to ensure data synchronization.
 
 
 ## Contact Me
