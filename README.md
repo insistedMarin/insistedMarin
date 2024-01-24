@@ -27,7 +27,7 @@ I'm a passionate software developer specializing in web development and cloud te
 
 ## Open Source Contributions
 
-- [incubator-answer](https://github.com/insistedMarin/incubator-answer) -
+- [incubator-answer](https://github.com/insistedMarin/incubator-answer) 
 
   A very popular Apache incubator open source project, a few months ago I started trying to contribute to the open source project. I am very happy to choose this project as the first open source project I contributed to. The project's workflow is very **standardized** and the community members are **friendly**, which allowed me to learn a lot about **code specifications** and **architectural design**. This project is a typical web project with separate front and back ends, developed using **React** and **Golang**. Golang, as the current main language for cloud native development, has given me a good experience. If you are already proficient in Java, C, and Python, learning Golang will be very fast. And the backend adopts the **MVC** architecture (the framework Gin itself is a lightweight framework, so there is no MVC architecture, but the project manually implemented the architecture. There are many such examples. The MVC architecture does a great job in service decoupling and code clarity. Still very good), so it’s not difficult to get started.
 
